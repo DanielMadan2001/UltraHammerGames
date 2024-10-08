@@ -117,13 +117,11 @@ hr {
 	font-weight: bold;
 	font-size: 1.2em;
 	border: 35px solid;
-	border-image: url(images/bg_sticky.png) 385 round;
 	margin-bottom: 10px;
 }
 
 .bodyDivRightSectionInner{
 	padding-top: 0px;
-	background-color: #fff6e9;
 	overflow: hidden;
 }
 
