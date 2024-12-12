@@ -135,8 +135,8 @@ hr {
 }
 
 .gameDescriptionTableImage {
-	width: 246px;
-	max-width: 100%;
+	/* width: 246px; */
+	max-width: 49%;
 	padding-bottom: 10px;
 }
 
